@@ -12,4 +12,3 @@ rekey:
     ansible-vault rekey aws_keys.yml
 decrypt:
     ansible-vault decrypt aws_keys.yml
-
